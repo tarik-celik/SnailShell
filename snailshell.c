@@ -26,7 +26,7 @@ char *file = (char *) malloc (500);
 char *exc = (char *) malloc (500);
 char *hostname = (char *) malloc (64);
 
-printf("\SnailShell 0.1 by Tarık Çelik \n");
+printf("\nSnailShell 0.1 by Tarık Çelik \n");
 printf("Write 'help' for help \n");
 
 while (!exit) {
