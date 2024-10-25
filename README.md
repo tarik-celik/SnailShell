@@ -4,7 +4,8 @@ A simple GNU/Linux shell written in C.
 
 SnailShell 0.1 by Tarık Çelik
 Write 'help' for help
-= help
+
+> = help
 
 SnailShell 0.1 by Tarık Çelik
  * help for that menu
